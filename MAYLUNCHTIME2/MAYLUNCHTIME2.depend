@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558803200 source:c:\users\umar malik\documents\codechef codeblocks\maylunchtime2\main.cpp
+	<iostream>
+	<string.h>
+	<cstring>
+

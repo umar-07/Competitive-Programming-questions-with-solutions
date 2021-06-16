@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558971532 source:c:\users\umar malik\documents\codechef codeblocks\bigsale@\main.cpp
+	<iostream>
+	<stdio.h>
+	<iomanip>
+
